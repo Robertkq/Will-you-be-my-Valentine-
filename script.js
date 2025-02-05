@@ -1,14 +1,14 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Bebe nu ai apasat corect..",
+    "Nu ai apasat corect.. asa-i?!!",
+    "Afirmativ?? Chiar asa??",
+    "Te rog pookie!!!!",
+    "Mai gandeste-te odata..",
+    "Daca spui nu.. o sa plang..",
+    "O sa fiu foarte trist..",
+    "O sa fiu extrem extrem de trist..",
+    "Bine.. nu mai intreb..",
+    "Glumeam! Te rog spune DA!"
 ];
 
 let messageIndex = 0;
